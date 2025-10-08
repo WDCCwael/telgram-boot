@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=pcmanfm-qt /home/wdc
+Icon=user-home
+Name=wdc
